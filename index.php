@@ -8,7 +8,7 @@
 <body>
 	<?php
 echo "Hello World";
-
+echo "Ngày mai nghỉ học Thầy Quang";
 	?>
 </body>
 </html>
